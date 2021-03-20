@@ -8,4 +8,4 @@ What are the most frequent words in Herman Melville's novel, Moby Dick, and how 
 
 The Data Science pipeline built in this notebook can be used to visualize the word frequency distributions of any novel that you can find on Project Gutenberg. The natural language processing tools used here apply to much of the data that data scientists encounter as a vast proportion of the world's data is unstructured data and includes a great deal of text.
 
-![Moby Dick-The Novel](https://assets.datacamp.com/production/project_38/img/Moby_Dick_p510_illustration.jpg)
+![Moby Dick-The Novel](https://images-na.ssl-images-amazon.com/images/I/41VnFKC9srL.jpg)
